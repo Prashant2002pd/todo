@@ -1,0 +1,29 @@
+body{
+    background: #222;
+    justify-items: center;
+}
+
+.main{
+    margin: auto;
+    width:70%;
+    text-align: center;
+    justify-content: center;
+    background:linear-gradient(135deg, #5afad8,#fc67d2) ;
+    border-radius: 15px;
+}
+span{
+    margin: 5%;
+}
+
+li button{
+    background-color: rgb(232, 84, 84);
+    border-radius: 25%;
+     border: none;
+  color: white;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 10%;
+    cursor: pointer;
+}
